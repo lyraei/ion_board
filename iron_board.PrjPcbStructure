@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=MCU_schematic.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=MCU_schematic.SchDoc|FileName=POWERR_schematic.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=MCU_schematic.SchDoc|FileName=radio_schematic.SchDoc|SheetNumber=2
