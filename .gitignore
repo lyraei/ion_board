@@ -17,3 +17,4 @@ Status\ Report.txt
 # Lock files sometimes left behind
 .~lock.*
 
+*.WAS
