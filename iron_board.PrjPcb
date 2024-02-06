@@ -157,18 +157,19 @@ UniqueID=3062164E-6970-4BB5-9644-DAD7FEC2545C
 Description=TBD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=11
-Variation1=Designator=C?|UniqueId=\TEAJODYX|Kind=1|AlternatePart= 
-Variation2=Designator=C?|UniqueId=\AGXRLPDO|Kind=1|AlternatePart= 
+VariationCount=12
+Variation1=Designator=C?|UniqueId=\TEAJODYX|Kind=0|AlternatePart= 
+Variation2=Designator=C?|UniqueId=\AGXRLPDO|Kind=0|AlternatePart= 
 Variation3=Designator=D?|UniqueId=\NSIQPJNV|Kind=1|AlternatePart= 
 Variation4=Designator=R?|UniqueId=\LFCTTZBE|Kind=1|AlternatePart= 
 Variation5=Designator=R?|UniqueId=\RWJTXGQE|Kind=1|AlternatePart= 
-Variation6=Designator=L3|UniqueId=\PVYWPIPI|Kind=1|AlternatePart= 
-Variation7=Designator=R8|UniqueId=\BCNPHJUT|Kind=1|AlternatePart= 
-Variation8=Designator=R5|UniqueId=\IASWDQDV|Kind=1|AlternatePart= 
+Variation6=Designator=L3|UniqueId=\PVYWPIPI|Kind=0|AlternatePart= 
+Variation7=Designator=R8|UniqueId=\BCNPHJUT|Kind=0|AlternatePart= 
+Variation8=Designator=R5|UniqueId=\IASWDQDV|Kind=0|AlternatePart= 
 Variation9=Designator=R7|UniqueId=\BMQPEJAI|Kind=1|AlternatePart= 
-Variation10=Designator=R4|UniqueId=\PNAIDLPN|Kind=1|AlternatePart= 
+Variation10=Designator=R4|UniqueId=\PNAIDLPN|Kind=0|AlternatePart= 
 Variation11=Designator=L2|UniqueId=\TBWERTWN|Kind=1|AlternatePart= 
+Variation12=Designator=R19|UniqueId=\AARMBZLG|Kind=0|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
