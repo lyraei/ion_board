@@ -161,8 +161,8 @@ VariationCount=12
 Variation1=Designator=C?|UniqueId=\TEAJODYX|Kind=0|AlternatePart= 
 Variation2=Designator=C?|UniqueId=\AGXRLPDO|Kind=0|AlternatePart= 
 Variation3=Designator=D?|UniqueId=\NSIQPJNV|Kind=1|AlternatePart= 
-Variation4=Designator=R?|UniqueId=\LFCTTZBE|Kind=1|AlternatePart= 
-Variation5=Designator=R?|UniqueId=\RWJTXGQE|Kind=1|AlternatePart= 
+Variation4=Designator=R?|UniqueId=\LFCTTZBE|Kind=0|AlternatePart= 
+Variation5=Designator=R?|UniqueId=\RWJTXGQE|Kind=0|AlternatePart= 
 Variation6=Designator=L3|UniqueId=\PVYWPIPI|Kind=0|AlternatePart= 
 Variation7=Designator=R8|UniqueId=\BCNPHJUT|Kind=0|AlternatePart= 
 Variation8=Designator=R5|UniqueId=\IASWDQDV|Kind=0|AlternatePart= 
@@ -171,6 +171,446 @@ Variation10=Designator=R4|UniqueId=\PNAIDLPN|Kind=0|AlternatePart=
 Variation11=Designator=L2|UniqueId=\TBWERTWN|Kind=1|AlternatePart= 
 Variation12=Designator=R19|UniqueId=\AARMBZLG|Kind=0|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for iron_board\Design Rule Check - iron_board_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\bottom_3d_body\features
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\bottom_assembly\features
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\bottom_component_center\features
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\bottom_component_outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\bottom_courtyard\features
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\bottom_designator\features
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\core\features
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\dielectric_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\dielectric_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\mechanical_13\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\mechanical_15\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\mid_layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\mid_layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\top_3d_body\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\top_assembly\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\top_component_center\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\top_component_outline\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\top_courtyard\features
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\top_designator\features
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM12
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GM24
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Bottom_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Bottom_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Bottom_Component_Center.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Bottom_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Top_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Top_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Top_Component_Center.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Top_Component_Outline.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Project Outputs for iron_board\iron_board_PCB_Top_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Project Outputs for iron_board\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project Outputs for iron_board\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -181,6 +621,13 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SimulationProfiles]
+ActiveProfile=DYLQFJCU
+ProfileId0=DYLQFJCU
+ProfileName0=Mixed Sim Configuration
+OutputType0=AdvSimNetlist
+ConfigParameters0=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analysis=True|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|SP_Analysis=False|TRAN_FourierAnalysis=False|TRAN_StressAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source=|TF_Reference=0|PZ_Enabled=False|PZ_Node1=|PZ_Node2=0|PZ_Node3=|PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource=|DC_PrimaryStart=|DC_PrimaryStop=|DC_PrimaryStep=|DC_EnableSecondary=False|DC_SecondarySource=|DC_SecondaryStart=|DC_SecondaryStop=|DC_SecondaryStep=|Noise_Enabled=False|Noise_Source=|Noise_Output=|Noise_Reference=0|Noise_Start_UserValue=|Noise_Start=1K|Noise_Stop_UserValue=|Noise_Stop=1G|Noise_TestPoints_UserValue=|Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|SP_Enabled=False|AC_StartFrequency_UserValue=|AC_StartFrequency=1K|AC_StopFrequency_UserValue=|AC_StopFrequency=1G|AC_TestPoints_UserValue=|AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|SP_Port0=|SP_Impedance0_UserValue=|SP_Impedance0=50|SP_Port1=|SP_Impedance1_UserValue=|SP_Impedance1=50|TRAN_StartTime_UserValue=|TRAN_StartTime=0|TRAN_StopTime_UserValue=|TRAN_StopTime=5u|TRAN_StepTime_UserValue=|TRAN_StepTime=0.1u|TRAN_MaxStepTime_UserValue=|TRAN_MaxStepTime=0.1u|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue=|TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue=|TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue=|TRAN_FourierFundFreq=1Meg|TRAN_FourierNumHarmonics_UserValue=|TRAN_FourierNumHarmonics=10|TRAN_StressEnabled=False|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue=|TempSweep_Start=-10|TempSweep_Stop_UserValue=|TempSweep_Stop=60|TempSweep_Step_UserValue=|TempSweep_Step=10|ParamSweep_Parameter1=|ParamSweep_Type1=LIN|ParamSweep_Start1=|ParamSweep_Stop1=|ParamSweep_Step1=|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2=|ParamSweep_Type2=LIN|ParamSweep_Start2=|ParamSweep_Stop2=|ParamSweep_Step2=|ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue=|Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue=|Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue=|Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue=|Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue=|Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue=|Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue=|OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue=|OPTION_DVCC=5|OPTION_DVDD_UserValue=|OPTION_DVDD=15|SheetsToNetlist=0
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -305,6 +752,10 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+Configuration1_Name1=ForceUpdateSettings
+Configuration1_Item1=False
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analysis=True|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|SP_Analysis=False|TRAN_FourierAnalysis=False|TRAN_StressAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source= |TF_Reference=0|PZ_Enabled=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource= |DC_PrimaryStart= |DC_PrimaryStop= |DC_PrimaryStep= |DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart= |DC_SecondaryStop= |DC_SecondaryStep= |Noise_Enabled=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start_UserValue= |Noise_Start=1K|Noise_Stop_UserValue= |Noise_Stop=1G|Noise_TestPoints_UserValue= |Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|SP_Enabled=False|AC_StartFrequency_UserValue= |AC_StartFrequency=1K|AC_StopFrequency_UserValue= |AC_StopFrequency=1G|AC_TestPoints_UserValue= |AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|SP_Port0= |SP_Impedance0_UserValue= |SP_Impedance0=50|SP_Port1= |SP_Impedance1_UserValue= |SP_Impedance1=50|TRAN_StartTime_UserValue= |TRAN_StartTime=0|TRAN_StopTime_UserValue= |TRAN_StopTime=5u|TRAN_StepTime_UserValue= |TRAN_StepTime=0.1u|TRAN_MaxStepTime_UserValue= |TRAN_MaxStepTime=0.1u|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue= |TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue= |TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue= |TRAN_FourierFundFreq=1Meg|TRAN_FourierNumHarmonics_UserValue= |TRAN_FourierNumHarmonics=10|TRAN_StressEnabled=False|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue= |TempSweep_Start=-10|TempSweep_Stop_UserValue= |TempSweep_Stop=60|TempSweep_Step_UserValue= |TempSweep_Step=10|ParamSweep_Parameter1= |ParamSweep_Type1=LIN|ParamSweep_Start1= |ParamSweep_Stop1= |ParamSweep_Step1= |ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Type2=LIN|ParamSweep_Start2= |ParamSweep_Stop2= |ParamSweep_Step2= |ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue= |Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue= |Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue= |Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue= |Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue= |Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue= |Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue= |OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue= |OPTION_DVCC=5|OPTION_DVDD_UserValue= |OPTION_DVDD=15|SheetsToNetlist=0|Record=AdvSimNetlistView|SimulationName=Mixed Sim Configuration|ProfileId=DYLQFJCU
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -469,22 +920,22 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputVariantName3=
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType4=Final
@@ -493,48 +944,60 @@ OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+Configuration5_Name1=ForceUpdateSettings
+Configuration5_Item1=False
+Configuration5_Name2=OutputConfigurationParameter1
+Configuration5_Item2=BoardID=OGHBNLYW|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908301~1,16908303~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|UncheckPlotDrillDrawingPair0_Backdrill=False|UncheckPlotDrillDrawingPair0_Checked=False|UncheckPlotDrillDrawingPair0_DrillType=Regular|UncheckPlotDrillDrawingPair0_FileName= |UncheckPlotDrillDrawingPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingPair0_LowLayer=Top Layer|UncheckPlotDrillGuidePair0_Backdrill=False|UncheckPlotDrillGuidePair0_Checked=False|UncheckPlotDrillGuidePair0_DrillType=Regular|UncheckPlotDrillGuidePair0_FileName= |UncheckPlotDrillGuidePair0_HighLayer=Bottom Layer|UncheckPlotDrillGuidePair0_LowLayer=Top Layer|DocumentPath=C:\Users\Szymon\Desktop\WE_HAVE_TECHNOLOGY\inż\iron_board\iron_board_PCB.PcbDoc
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+Configuration6_Name1=ForceUpdateSettings
+Configuration6_Item1=False
+Configuration6_Name2=OutputConfigurationParameter1
+Configuration6_Item2=Compression_None=True|Compression_tar_tgz=True|Compression_zip=True|DifferentFootprints=True|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=True|IncludeVariantsData=False|MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|Plot_V7_1=True|Plot_V7_1_name=Mechanical Layer 20|Plot_V7_2=True|Plot_V7_2_name=Mechanical Layer 24|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotCounterHolesPairs=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair0_Plot=True|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair0_Plot=True|PlotDrillGuidePairs=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=True|PlotMechanical12Plot=True|PlotMechanical13Plot=True|PlotMechanical14Plot=True|PlotMechanical15Plot=True|PlotMechanical16Plot=True|PlotMechanical1Plot=True|PlotMechanical2Plot=True|PlotMechanical3Plot=True|PlotMechanical4Plot=True|PlotMechanical5Plot=True|PlotMechanical6Plot=True|PlotMechanical7Plot=True|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMicroViasPairs=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPair0_Plot=True|PlotNPTHPairs=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPair0_Plot=True|PlotPTHPairs=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|Record=ODBView|ToolsByDrillSymbols=True|Units=Metric|DocumentPath=C:\Users\Szymon\Desktop\WE_HAVE_TECHNOLOGY\inż\iron_board\iron_board_PCB.PcbDoc
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
-OutputVariantName8=[No Variations]
+OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=OGHBNLYW|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973837~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973848~1,16973849~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908294~1,16908295~1,16908299~1,16908300~1,16908301~1,16908302~1,16908303~1,16908304~1,16908308~1,16908312~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Szymon\Desktop\WE_HAVE_TECHNOLOGY\inż\iron_board\iron_board_PCB.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1248,208 +1711,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Celestial Altium Library - altium_library.DbLib/Capacitors - Ceramic - 0402
-ComponentDesignItemID0=04023A6R8CAT2A
-ComponentSymbolReference0=Capacitor
+ComponentLibIdentifierKind0=Any
+ComponentLibraryIdentifier0=
+ComponentDesignItemID0=BMI323
+ComponentSymbolReference0=BMI323
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Celestial Altium Library - altium_library.DbLib/Capacitors - Ceramic - 0603
-ComponentDesignItemID1=CC0603KRX7R6BB105
-ComponentSymbolReference1=Capacitor
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=Celestial Altium Library - altium_library.DbLib/Capacitors - Ceramic - 0603
-ComponentDesignItemID2=CS0603KRX7R7BB104
-ComponentSymbolReference2=Capacitor
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=Celestial Altium Library - altium_library.DbLib/Capacitors - Ceramic - 0603
-ComponentDesignItemID3=GQM1875C2E6R8WB12D
-ComponentSymbolReference3=Capacitor
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=Celestial Altium Library - altium_library.DbLib/Capacitors - Ceramic - 0603
-ComponentDesignItemID4=GRM188D71A106KA73D
-ComponentSymbolReference4=Capacitor
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=Celestial Altium Library - altium_library.DbLib/Capacitors - Ceramic - 0603
-ComponentDesignItemID5=GRM188R61C475KE11D
-ComponentSymbolReference5=Capacitor
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=Celestial Altium Library - altium_library.DbLib/Capacitors - Ceramic - 0603
-ComponentDesignItemID6=VJ0603A100FXACW1BC
-ComponentSymbolReference6=Capacitor
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=Celestial Altium Library - altium_library.DbLib/Inductors - RF
-ComponentDesignItemID7=744761020A
-ComponentSymbolReference7=Inductor
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=Celestial Altium Library - altium_library.DbLib/Inductors - RF
-ComponentDesignItemID8=LQW15CE2R2M10D
-ComponentSymbolReference8=Inductor
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=Celestial Altium Library - altium_library.DbLib/Inductors - RF
-ComponentDesignItemID9=LQW18ASR39J00D
-ComponentSymbolReference9=Inductor
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=Celestial Altium Library - altium_library.DbLib/LED - Indication
-ComponentDesignItemID10=150080VS75000
-ComponentSymbolReference10=LED
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=Celestial Altium Library - altium_library.DbLib/LED - Indication
-ComponentDesignItemID11=150080YS75000
-ComponentSymbolReference11=LED
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=Celestial Altium Library - altium_library.DbLib/Resistors - Surface Mount - 0603
-ComponentDesignItemID12=JR0603X26E
-ComponentSymbolReference12=Resistor
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=Celestial Altium Library - altium_library.DbLib/Resistors - Surface Mount - 0603
-ComponentDesignItemID13=RC0603FR-1052K3L
-ComponentSymbolReference13=Resistor
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=Celestial Altium Library - altium_library.DbLib/Resistors - Surface Mount - 0603
-ComponentDesignItemID14=RC0603FR-131K2L
-ComponentSymbolReference14=Resistor
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=Celestial Altium Library - altium_library.DbLib/Resistors - Surface Mount - 0603
-ComponentDesignItemID15=RMCF0603FT3K09
-ComponentSymbolReference15=Resistor
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=Celestial Altium Library - altium_library.DbLib/Resistors - Surface Mount - 0603
-ComponentDesignItemID16=RMCF0603JG1K80
-ComponentSymbolReference16=Resistor
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=Celestial Altium Library - altium_library.DbLib/Resistors - Surface Mount - 0603
-ComponentDesignItemID17=RR0816P-512-D
-ComponentSymbolReference17=Resistor
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=Celestial Altium Library - altium_library.DbLib/Resistors - Surface Mount - 0603
-ComponentDesignItemID18=RT0603FRE0710KL
-ComponentSymbolReference18=Resistor
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=Celestial Altium Library - altium_library.DbLib/Switches - Tactile
-ComponentDesignItemID19=FSM4JSMATR
-ComponentSymbolReference19=SPST-NO 4 PIN
-ComponentUpdate19=1
-ComponentIsDeviceSheet19=0
-ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=Integrated_Library1.IntLib
-ComponentDesignItemID20=2118707-2
-ComponentSymbolReference20=2118707-2
-ComponentUpdate20=1
-ComponentIsDeviceSheet20=0
-ComponentLibIdentifierKind21=Library Name And Type
-ComponentLibraryIdentifier21=lib.SchLib
-ComponentDesignItemID21=ESP32-C6FH4
-ComponentSymbolReference21=ESP32-C6FH4
-ComponentUpdate21=1
-ComponentIsDeviceSheet21=0
-ComponentLibIdentifierKind22=Library Name Only
-ComponentLibraryIdentifier22=Altium Content Vault
-ComponentDesignItemID22=CMP-00196-59660426-1
-ComponentSymbolReference22=d335f9880a304d34fc1f3724ce492b6
-ComponentUpdate22=1
-ComponentIsDeviceSheet22=0
-ComponentLibIdentifierKind23=Library Name Only
-ComponentLibraryIdentifier23=Altium Content Vault
-ComponentDesignItemID23=CMP-0321-00214-2
-ComponentSymbolReference23=TI-BQ24073RGT16-1700X1700TP
-ComponentUpdate23=1
-ComponentIsDeviceSheet23=0
-ComponentLibIdentifierKind24=Library Name Only
-ComponentLibraryIdentifier24=Altium Content Vault
-ComponentDesignItemID24=CMP-03913-116855769-1
-ComponentSymbolReference24=WE-XTAL_CFPX-218
-ComponentUpdate24=1
-ComponentIsDeviceSheet24=0
-ComponentLibIdentifierKind25=Library Name Only
-ComponentLibraryIdentifier25=Altium Content Vault
-ComponentDesignItemID25=CMP-04918-000211-1
-ComponentSymbolReference25=8ee1c446ca40a49d0fd1cd25675394a
-ComponentUpdate25=1
-ComponentIsDeviceSheet25=0
-ComponentLibIdentifierKind26=Library Name Only
-ComponentLibraryIdentifier26=Altium Content Vault
-ComponentDesignItemID26=CMP-0550-00041-2
-ComponentSymbolReference26=AMS-TSL256X-6
-ComponentUpdate26=1
-ComponentIsDeviceSheet26=0
-ComponentLibIdentifierKind27=Library Name Only
-ComponentLibraryIdentifier27=Altium Content Vault
-ComponentDesignItemID27=CMP-11597-000004-1
-ComponentSymbolReference27=93546ed2a3e5f67d674769dc1278528
-ComponentUpdate27=1
-ComponentIsDeviceSheet27=0
-ComponentLibIdentifierKind28=Library Name Only
-ComponentLibraryIdentifier28=Altium Content Vault
-ComponentDesignItemID28=CMP-2000-05073-3
-ComponentSymbolReference28=d58e2f6669bc67e6a2bc6a28610ca79
-ComponentUpdate28=1
-ComponentIsDeviceSheet28=0
-ComponentLibIdentifierKind29=Library Name Only
-ComponentLibraryIdentifier29=Altium Content Vault
-ComponentDesignItemID29=CMP-2000-05285-1
-ComponentSymbolReference29=NXP-PRTR5V0U2X,215-4
-ComponentUpdate29=1
-ComponentIsDeviceSheet29=0
-ComponentLibIdentifierKind30=Library Name Only
-ComponentLibraryIdentifier30=Altium Content Vault
-ComponentDesignItemID30=CMP-2000-05633-1
-ComponentSymbolReference30=CN-1P-2M-R2
-ComponentUpdate30=1
-ComponentIsDeviceSheet30=0
-ComponentLibIdentifierKind31=Library Name Only
-ComponentLibraryIdentifier31=Altium Content Vault
-ComponentDesignItemID31=CMP-245163-000001-1
-ComponentSymbolReference31=e7c17a616881a82b79941196b4bec10
-ComponentUpdate31=1
-ComponentIsDeviceSheet31=0
-ComponentLibIdentifierKind32=Library Name Only
-ComponentLibraryIdentifier32=Altium Content Vault
-ComponentDesignItemID32=CMP-27762-015873-1
-ComponentSymbolReference32=c23a69dc6c9e2f18f2079038eb95dd1
-ComponentUpdate32=1
-ComponentIsDeviceSheet32=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1463,495 +1734,35 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Accuracy
+ParameterName0=Arrow Part Number
 ParameterUpdate0=1
-ParameterName1=Actuator Height off PCB, Vertical
+ParameterName1=Arrow Price/Stock
 ParameterUpdate1=1
-ParameterName2=Actuator Orientation
+ParameterName2=Comment
 ParameterUpdate2=1
-ParameterName3=Actuator Type
+ParameterName3=Component Kind
 ParameterUpdate3=1
-ParameterName4=Applications
+ParameterName4=Datasheet Link
 ParameterUpdate4=1
-ParameterName5=Arrow Part Number
+ParameterName5=Description
 ParameterUpdate5=1
-ParameterName6=Arrow Price/Stock
+ParameterName6=Height
 ParameterUpdate6=1
-ParameterName7=Automotive
+ParameterName7=Library Reference
 ParameterUpdate7=1
-ParameterName8=Brand
+ParameterName8=Manufacturer_Name
 ParameterUpdate8=1
-ParameterName9=Capacitance
+ParameterName9=Manufacturer_Part_Number
 ParameterUpdate9=1
-ParameterName10=Capacitance Value
+ParameterName10=Mouser Part Number
 ParameterUpdate10=1
-ParameterName11=Case/Package
+ParameterName11=Mouser Price/Stock
 ParameterUpdate11=1
-ParameterName12=Category
-ParameterUpdate12=1
-ParameterName13=Circuit
-ParameterUpdate13=1
-ParameterName14=Code_JEDEC
-ParameterUpdate14=1
-ParameterName15=Color
-ParameterUpdate15=1
-ParameterName16=Comment
-ParameterUpdate16=1
-ParameterName17=Component Kind
-ParameterUpdate17=1
-ParameterName18=componentlink1description
-ParameterUpdate18=1
-ParameterName19=componentlink1url
-ParameterUpdate19=1
-ParameterName20=componentlink2description
-ParameterUpdate20=1
-ParameterName21=componentlink2url
-ParameterUpdate21=1
-ParameterName22=Composition
-ParameterUpdate22=1
-ParameterName23=Configuration
-ParameterUpdate23=1
-ParameterName24=Conn Orientation
-ParameterUpdate24=1
-ParameterName25=Connector Type
-ParameterUpdate25=1
-ParameterName26=Contact Material
-ParameterUpdate26=1
-ParameterName27=Contact Plating
-ParameterUpdate27=1
-ParameterName28=Contact Rating @ Voltage
-ParameterUpdate28=1
-ParameterName29=Contact Resistance
-ParameterUpdate29=1
-ParameterName30=Current - Max
-ParameterUpdate30=1
-ParameterName31=Current - Test
-ParameterUpdate31=1
-ParameterName32=Current Rating
-ParameterUpdate32=1
-ParameterName33=Current Rating (Amps)
-ParameterUpdate33=1
-ParameterName34=Datasheet Link
-ParameterUpdate34=1
-ParameterName35=Datasheet URL
-ParameterUpdate35=1
-ParameterName36=Datasheet Version
-ParameterUpdate36=1
-ParameterName37=DatasheetVersion
-ParameterUpdate37=1
-ParameterName38=DC Resistance (DCR)
-ParameterUpdate38=1
-ParameterName39=Depth
-ParameterUpdate39=1
-ParameterName40=Description
-ParameterUpdate40=1
-ParameterName41=Device Class L1
-ParameterUpdate41=1
-ParameterName42=Device Class L2
-ParameterUpdate42=1
-ParameterName43=Device Class L3
-ParameterUpdate43=1
-ParameterName44=Device Package
-ParameterUpdate44=1
-ParameterName45=Digikey Description
-ParameterUpdate45=1
-ParameterName46=Direction Type
-ParameterUpdate46=1
-ParameterName47=Eco-Plan
-ParameterUpdate47=1
-ParameterName48=ESD Protection Voltage
-ParameterUpdate48=1
-ParameterName49=ESR (Equivalent Series Resistance)
-ParameterUpdate49=1
-ParameterName50=Factory Pack Quantity
-ParameterUpdate50=1
-ParameterName51=Features
-ParameterUpdate51=1
-ParameterName52=Flammability Rating
-ParameterUpdate52=1
-ParameterName53=Frequency
-ParameterUpdate53=1
-ParameterName54=Frequency - Self Resonant
-ParameterUpdate54=1
-ParameterName55=Frequency Tolerance
-ParameterUpdate55=1
-ParameterName56=Gender
-ParameterUpdate56=1
-ParameterName57=Height
-ParameterUpdate57=1
-ParameterName58=Height - Seated (Max)
-ParameterUpdate58=1
-ParameterName59=Height (Max)
-ParameterUpdate59=1
-ParameterName60=Housing Material
-ParameterUpdate60=1
-ParameterName61=Illumination
-ParameterUpdate61=1
-ParameterName62=Inductance
-ParameterUpdate62=1
-ParameterName63=Inductance Frequency - Test
-ParameterUpdate63=1
-ParameterName64=Insulation Resistance
-ParameterUpdate64=1
-ParameterName65=Interface
-ParameterUpdate65=1
-ParameterName66=Is Female
-ParameterUpdate66=1
-ParameterName67=lastupdated
-ParameterUpdate67=1
-ParameterName68=Lead Acid
-ParameterUpdate68=1
-ParameterName69=Lead Free
-ParameterUpdate69=1
-ParameterName70=Leakage Current
-ParameterUpdate70=1
-ParameterName71=Leakage Current (Max)
-ParameterUpdate71=1
-ParameterName72=Length
-ParameterUpdate72=1
-ParameterName73=Lens Color
-ParameterUpdate73=1
-ParameterName74=Lens Size
-ParameterUpdate74=1
-ParameterName75=Lens Style
-ParameterUpdate75=1
-ParameterName76=Lens Transparency
-ParameterUpdate76=1
-ParameterName77=Library Reference
-ParameterUpdate77=1
-ParameterName78=Lifecycle Status
-ParameterUpdate78=1
-ParameterName79=Li-Ion
-ParameterUpdate79=1
-ParameterName80=Li-Polymer
-ParameterUpdate80=1
-ParameterName81=Load Capacitance
-ParameterUpdate81=1
-ParameterName82=manufacturer
-ParameterUpdate82=1
-ParameterName83=Manufacturer Part Number
-ParameterUpdate83=1
-ParameterName84=Manufacturer URL
-ParameterUpdate84=1
-ParameterName85=Manufacturer_Name
-ParameterUpdate85=1
-ParameterName86=Manufacturer_Part_Number
-ParameterUpdate86=1
-ParameterName87=Material - Core
-ParameterUpdate87=1
-ParameterName88=Max Current Rating
-ParameterUpdate88=1
-ParameterName89=Max Operating Temperature
-ParameterUpdate89=1
-ParameterName90=Max Output Current
-ParameterUpdate90=1
-ParameterName91=Max Supply Current
-ParameterUpdate91=1
-ParameterName92=Max Voltage Rating (AC)
-ParameterUpdate92=1
-ParameterName93=Maximum Lux
-ParameterUpdate93=1
-ParameterName94=Millicandela Rating
-ParameterUpdate94=1
-ParameterName95=Min Operating Temperature
-ParameterUpdate95=1
-ParameterName96=Minimum Order
-ParameterUpdate96=1
-ParameterName97=Mount
-ParameterUpdate97=1
-ParameterName98=Mounting
-ParameterUpdate98=1
-ParameterName99=Mounting Angle
-ParameterUpdate99=1
-ParameterName100=Mounting Style
-ParameterUpdate100=1
-ParameterName101=Mounting Technology
-ParameterUpdate101=1
-ParameterName102=Mounting Type
-ParameterUpdate102=1
-ParameterName103=Mouser Part Number
-ParameterUpdate103=1
-ParameterName104=Mouser Price/Stock
-ParameterUpdate104=1
-ParameterName105=NexarPartId
-ParameterUpdate105=1
-ParameterName106=NiCd
-ParameterUpdate106=1
-ParameterName107=NiMH
-ParameterUpdate107=1
-ParameterName108=Number Of Contacts
-ParameterUpdate108=1
-ParameterName109=Number of Elements
-ParameterUpdate109=1
-ParameterName110=Number of Pins
-ParameterUpdate110=1
-ParameterName111=Number of Positions
-ParameterUpdate111=1
-ParameterName112=Number of Positions / Contacts
-ParameterUpdate112=1
-ParameterName113=Number of Rows
-ParameterUpdate113=1
-ParameterName114=Number of Terminations
-ParameterUpdate114=1
-ParameterName115=Octopart
-ParameterUpdate115=1
-ParameterName116=Operating Force
-ParameterUpdate116=1
-ParameterName117=Operating Frequency
-ParameterUpdate117=1
-ParameterName118=Operating Supply Voltage
-ParameterUpdate118=1
-ParameterName119=Operating Temp Range
-ParameterUpdate119=1
-ParameterName120=Operating Temperature
-ParameterUpdate120=1
-ParameterName121=Operating Temperature Classification
-ParameterUpdate121=1
-ParameterName122=Operating Temperature Max Deg. C
-ParameterUpdate122=1
-ParameterName123=Operating Temperature Min Deg. C
-ParameterUpdate123=1
-ParameterName124=Orientation
-ParameterUpdate124=1
-ParameterName125=Outline
-ParameterUpdate125=1
-ParameterName126=Output Type
-ParameterUpdate126=1
-ParameterName127=Over Voltage Protection
-ParameterUpdate127=1
-ParameterName128=Package
-ParameterUpdate128=1
-ParameterName129=Package / Case
-ParameterUpdate129=1
-ParameterName130=Package Description
-ParameterUpdate130=1
-ParameterName131=Package Quantity
-ParameterUpdate131=1
-ParameterName132=Package Reference
-ParameterUpdate132=1
-ParameterName133=Package Type
-ParameterUpdate133=1
-ParameterName134=Package URL
-ParameterUpdate134=1
-ParameterName135=Package Version
-ParameterUpdate135=1
-ParameterName136=PackageDescription
-ParameterUpdate136=1
-ParameterName137=PackageReference
-ParameterUpdate137=1
-ParameterName138=PackageVersion
-ParameterUpdate138=1
-ParameterName139=packaging
-ParameterUpdate139=1
-ParameterName140=Part Number
-ParameterUpdate140=1
-ParameterName141=Part Status
-ParameterUpdate141=1
-ParameterName142=partid
-ParameterUpdate142=1
-ParameterName143=PartNumber
-ParameterUpdate143=1
-ParameterName144=Pin Count
-ParameterUpdate144=1
-ParameterName145=Pitch
-ParameterUpdate145=1
-ParameterName146=Polarity
-ParameterUpdate146=1
-ParameterName147=Power (Watts)
-ParameterUpdate147=1
-ParameterName148=price
-ParameterUpdate148=1
-ParameterName149=Product Category
-ParameterUpdate149=1
-ParameterName150=Product Depth (mm)
-ParameterUpdate150=1
-ParameterName151=Product Height (mm)
-ParameterUpdate151=1
-ParameterName152=Product Length (mm)
-ParameterUpdate152=1
-ParameterName153=Product Type
-ParameterUpdate153=1
-ParameterName154=Programmable
-ParameterUpdate154=1
-ParameterName155=Q @ Freq
-ParameterUpdate155=1
-ParameterName156=Rad Hardened
-ParameterUpdate156=1
-ParameterName157=Radiation Hardening
-ParameterUpdate157=1
-ParameterName158=Ratings
-ParameterUpdate158=1
-ParameterName159=REACH SVHC
-ParameterUpdate159=1
-ParameterName160=Resistance
-ParameterUpdate160=1
-ParameterName161=Response Time
-ParameterUpdate161=1
-ParameterName162=Reverse Breakdown Voltage
-ParameterUpdate162=1
-ParameterName163=Reverse Stand-off Voltage
-ParameterUpdate163=1
-ParameterName164=RoHS
-ParameterUpdate164=1
-ParameterName165=RoHS Compliant
-ParameterUpdate165=1
-ParameterName166=Schedule B
-ParameterUpdate166=1
-ParameterName167=Sensing Method
-ParameterUpdate167=1
-ParameterName168=Sensor Type
-ParameterUpdate168=1
-ParameterName169=series
-ParameterUpdate169=1
-ParameterName170=Shielding
-ParameterUpdate170=1
-ParameterName171=Size / Dimension
-ParameterUpdate171=1
-ParameterName172=SubFamily
-ParameterUpdate172=1
-ParameterName173=Supplier 1
-ParameterUpdate173=1
-ParameterName174=Supplier Device Package
-ParameterUpdate174=1
-ParameterName175=Supplier Part Number 1
-ParameterUpdate175=1
-ParameterName176=Supply Voltage (V)
-ParameterUpdate176=1
-ParameterName177=Suppressor Type
-ParameterUpdate177=1
-ParameterName178=Switch Function
-ParameterUpdate178=1
-ParameterName179=Temperature
-ParameterUpdate179=1
-ParameterName180=Temperature Coefficient
-ParameterUpdate180=1
-ParameterName181=Temperature Range High
-ParameterUpdate181=1
-ParameterName182=Temperature Range Low
-ParameterUpdate182=1
-ParameterName183=Termination
-ParameterUpdate183=1
-ParameterName184=Termination Style
-ParameterUpdate184=1
-ParameterName185=Thickness (Max)
-ParameterUpdate185=1
-ParameterName186=Tolerance
-ParameterUpdate186=1
-ParameterName187=Tradename
-ParameterUpdate187=1
-ParameterName188=Type
-ParameterUpdate188=1
-ParameterName189=Usb Standard
-ParameterUpdate189=1
-ParameterName190=Value
-ParameterUpdate190=1
-ParameterName191=Viewing Angle
-ParameterUpdate191=1
-ParameterName192=Vin(Min)(V)
-ParameterUpdate192=1
-ParameterName193=Voltage - Forward (Vf) (Typ)
-ParameterUpdate193=1
-ParameterName194=Voltage - Max
-ParameterUpdate194=1
-ParameterName195=Voltage - Rated
-ParameterUpdate195=1
-ParameterName196=Voltage Rating
-ParameterUpdate196=1
-ParameterName197=Voltage Rating (AC)
-ParameterUpdate197=1
-ParameterName198=Wavelength - Dominant
-ParameterUpdate198=1
-ParameterName199=Wavelength - Peak
-ParameterUpdate199=1
-ParameterName200=Width
-ParameterUpdate200=1
-ParameterName201=Working Voltage
-ParameterUpdate201=1
-ParameterName202=Working Voltage (Max)
-ParameterUpdate202=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=21187072
+ModelName0=BMI323
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=AMS-FN-6-2000X2000DE_V
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=CAP 0402_1005
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=CAP 0603_1608
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=FP-ABS07-MFG
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=FP-BME280-MFG
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=FP-DGR0008A-IPC_A
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=FP-DGR0008A-IPC_B
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=FP-DGR0008A-IPC_C
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=FP-DGR0008A-MFG
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=FP-DM3BT-DSF-PEJS-MFG
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=FP-PG-SOT23-3-IPC_A
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=FP-PG-SOT23-3-IPC_B
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=FP-PG-SOT23-3-IPC_C
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=FP-PG-SOT23-3-MFG
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=FP-USB4105-GF-A-MFG
-ModelUpdate15=1
-ModelType16=PCBLIB
-ModelName16=IND 0402_1005 RF WW
-ModelUpdate16=1
-ModelType17=PCBLIB
-ModelName17=IND 0603_1608 RF WW
-ModelUpdate17=1
-ModelType18=PCBLIB
-ModelName18=LED 0805_2012 GREEN
-ModelUpdate18=1
-ModelType19=PCBLIB
-ModelName19=LED 0805_2012 YELLOW
-ModelUpdate19=1
-ModelType20=PCBLIB
-ModelName20=MOLX-53261-0271_V
-ModelUpdate20=1
-ModelType21=PCBLIB
-ModelName21=NXP-SOT143B-4_V
-ModelUpdate21=1
-ModelType22=PCBLIB
-ModelName22=QFN50P500X500X90-33N
-ModelUpdate22=1
-ModelType23=PCBLIB
-ModelName23=RES 0603_1608
-ModelUpdate23=1
-ModelType24=PCBLIB
-ModelName24=RGT0016C_V
-ModelUpdate24=1
-ModelType25=PCBLIB
-ModelName25=TE FSM4JSMA
-ModelUpdate25=1
-ModelType26=PCBLIB
-ModelName26=WE-XTAL_CFPX-218
-ModelUpdate26=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
