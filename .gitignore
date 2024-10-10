@@ -19,3 +19,7 @@ Status\ Report.txt
 .~lock.*
 
 *.WAS
+
+ALTIUM_EMBEDDED_MODELS
+rules
+*.md
