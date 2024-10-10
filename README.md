@@ -4,7 +4,7 @@
 
 This repository contains the design and implementation files for a PCB that serves as a node in a self-healing mesh network, developed as part of my thesis project. The board incorporates 2.4GHz WiFi, Bluetooth, and an array of environmental sensors,a power management system, and is designed for battery-powered operation.
 
-![Screenshot of a 3d render of the board]()
+![Screenshot of a 3d render of the board](https://github.com/lyraei/ion_board/blob/main/documentation/board3d_view.png)
 
 ## Features
 
