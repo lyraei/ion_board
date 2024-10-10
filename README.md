@@ -1,6 +1,6 @@
 # Self-Healing Mesh Network Node With Dynamic Routing
 
-## This project is very much under development
+## Software for this project is still under development
 
 This repository contains the design and implementation files for a PCB that serves as a node in a self-healing mesh network, developed as part of my thesis project. The board incorporates 2.4GHz WiFi, Bluetooth, and an array of environmental sensors,a power management system, and is designed for battery-powered operation.
 
